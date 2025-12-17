@@ -10,7 +10,7 @@ print ("Day One")
 this can comments multiline
 use three double/single qoutes to comments multiline together. """
 
-# escape sequence --------->>
+# Escape sequence --------->>
 
 # \n is used to next line
 # \" is used to qoutes the word in string 
@@ -22,3 +22,4 @@ print("Welcome to the day one of the python programing \n my name is \"shivam pr
 # end='' is used to what to print at the end
 
 print("hello world", 25 , 6 , sep='~')
+
